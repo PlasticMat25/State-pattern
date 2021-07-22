@@ -1,0 +1,12 @@
+{
+  "name": "state_machine",
+  "version": "1.0.0",
+  "description": "This is my simple implementation of event machine pattern based on events",
+  "main": "Main.js",
+  "scripts": {
+    "start": "node ./Main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
